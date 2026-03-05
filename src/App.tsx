@@ -78,8 +78,6 @@ function App() {
       <IridescenceBlend
         color1={[0.97, 0.98, 0.99]}
         color2={[0.9, 0.92, 0.95]}
-        blendMin={0.4}
-        blendMax={0.6}
         mouseReact
         amplitude={0.1}
         speed={1}
